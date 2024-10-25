@@ -1,0 +1,25 @@
+\babel@toc {USenglish}{}\relax 
+\contentsline {section}{\numberline {1}Overview}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Preamble}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Maintainer and contributors}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Project title, subtitle, and header name}{3}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Maintainer institution logo}{3}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}Body}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Meetings}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}External}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Internal}{6}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Topic A to focus on}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}A subsection}{8}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}A subsubsection}{8}{subsubsection.3.1.1}%
+\contentsline {subsubsubsection}{\numberline {3.1.1.1}A subsubsubsection}{8}{subsubsubsection.3.1.1.1}%
+\contentsline {subsection}{\numberline {3.2}Another subsection}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Topic B to focus on}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Algorithms}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Code}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Diagrams}{11}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Topic C to focus on}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Figures}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Tables}{13}{subsection.5.2}%
+\contentsline {section}{\numberline {A}References}{14}{appendix.A}%
+\contentsline {section}{\numberline {B}Resources}{15}{appendix.B}%
+\contentsline {section}{\numberline {C}TODOS}{16}{appendix.C}%
